@@ -45,7 +45,7 @@ So far, we've talked about terminal, shell, commands and alias, and I want to sh
 
 |Alias|Description|
 |-------|-----------|
-|`findd = 'ls ~/ \| grep $word'`|Fild all folders that contain *$word*|
+|`findd = 'ls ~/ \| grep $word'`|Find all folders that contain *$word*|
 |`rm = 'trash'`|Avoid permanent deleting when remove a file|
 |`cl= 'clear'`|Clean the terminal|
 |`gh = 'history \| grep'`|Find a command in your grep history|
